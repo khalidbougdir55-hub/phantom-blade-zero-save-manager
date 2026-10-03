@@ -1,0 +1,7 @@
+# Exclude build artifacts
+examples/site/**/*.html linguist-vendored
+examples/site/* linguist-vendored
+src/** linguist-detectable
+
+*.bat text eol=crlf
+*.md linguist-documentation
