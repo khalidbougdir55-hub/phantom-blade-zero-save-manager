@@ -1,0 +1,4 @@
+.cache/
+*.log
+.pnpm-store/
+npm-debug.log*
